@@ -1,2 +1,2 @@
-Linijka 1
-Linijka 2
+Linijka pierwsza
+Linijka druga
